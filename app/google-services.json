@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "624679832351",
+    "project_id": "firebase-amuse-login"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624679832351:android:a70b1fa082c640c0",
+        "android_client_info": {
+          "package_name": "com.app.rohit.amuselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624679832351-55j0f1jef6c2jrtrnv40f2tfojqqmdlj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "624679832351-7qhuff7ckkum6c26259923tpo8cuj1tj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.rohit.amuselogin",
+            "certificate_hash": "4a5ece0823d0c03511c164149f88435fc89a9f7d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJvTswxGSXuVRj49FPYUBvTiTwzfIkRPU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
